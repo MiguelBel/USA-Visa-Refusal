@@ -52,6 +52,17 @@ table thead tr td{
   font-weight: bold;
 }
 
+.footer {
+  text-align: center;
+  color: white;
+}
+
+.footer a{
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
 /* Placeholder color */
 ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
     color: #fff200;
